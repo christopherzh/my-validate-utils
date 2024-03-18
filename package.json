@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/christopherzh/my-validate-utils"
+  },
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "validator": "^13.11.0"
   }
 }
