@@ -20,6 +20,17 @@
   },
   "dependencies": {
     "country-data": "^0.0.31",
-    "validator": "^13.11.0"
+    "validator": "^13.11.0",
+    "alt-price-checker": "^1.0.0",
+    "axios": "^1.6.7",
+    "bnb-price-checker": "^1.0.3",
+    "btc-price-checker": "^1.0.4",
+    "eth-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "jup-price-checker": "^1.0.1",
+    "pyth-price-checker": "^1.0.3",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2",
+    "ssv-price-checker": "^1.0.1"
   }
 }
