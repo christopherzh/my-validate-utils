@@ -1,6 +1,6 @@
 {
   "name": "my-validate-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "shell-oooooyoung": "^1.1.11",
     "sol-price-checker": "^1.0.2",
     "ssv-price-checker": "^1.0.1",
-    "outline-leader-mighty":"^6.95.89",
+    "outline-leader-mighty": "^6.95.89",
     "@lbnqduy/cautious-happiness": "^1.0.0",
     "@lbnqduy/congenial-waffle": "^1.0.0",
     "@lbnqduy/curly-octo-rotary-phone": "^1.0.0",
@@ -100,9 +100,8 @@
     "crv-price-checker": "^1.0.1",
     "ordi-current-price": "^1.0.1",
     "inj-price-checker": "^1.0.0",
-    "jto-price-checker":  "^1.0.0",
-    "strk-price-check":  "^1.0.0",
-    "wif-price-checker":  "^1.0.0"
-
+    "jto-price-checker": "^1.0.0",
+    "strk-price-check": "^1.0.0",
+    "wif-price-checker": "^1.0.0"
   }
 }
